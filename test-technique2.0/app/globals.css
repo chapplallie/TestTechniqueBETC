@@ -8,8 +8,6 @@
 }
 
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
     --primary-color: #0070f3;
     --secondary-color: #1a1a1a;
     --third-color: #333333;
@@ -17,7 +15,6 @@
 
 
 body {
-  background: var(--foreground);
-  color: var(--foreground);
+  
   font-family: Arial, Helvetica, sans-serif;
 }
